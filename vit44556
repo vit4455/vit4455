@@ -1,0 +1,15 @@
+ <style amp-custom>
+    .container {
+      height: 600;
+      width: 600;
+    }
+
+    .seat-free,
+    .seat-taken,
+    .seat-selected {
+      width: 10px;
+      height: 10px;
+      transition: fill .4s ease;
+    }
+
+    .area-free,   
